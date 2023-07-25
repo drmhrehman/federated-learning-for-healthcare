@@ -1,4 +1,4 @@
-# federated-learning-for-healthcare
+# Federated Learning for Healthcare
 This repository contains the state-of-the-art literature (papers, code, websites, etc.) on federated leanig for healthcare.
 This list is maintained by Habib Rehman. (Actively keep updating)
 
