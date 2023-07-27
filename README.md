@@ -18,3 +18,5 @@ Feel free to share this list with others!
 5. [Review on security of federated learning and its application in healthcare](https://www.sciencedirect.com/science/article/abs/pii/S0167739X23000626?via%3Dihub) Future Generation Computer Systems.
 6. [Federated Learning for Privacy Preservation in Smart Healthcare Systems: A Comprehensive Survey](https://ieeexplore.ieee.org/document/9794622) IEEE Journal of Biomedical and Healthcare Informatics.
 7. [Blockchain Meets Federated Learning in Healthcare: A Systematic Review with Challenges and Opportunities](https://ieeexplore.ieee.org/document/10090221) IEEE Internet of Things Journal.
+
+## Technical Papers and Code Repos.
